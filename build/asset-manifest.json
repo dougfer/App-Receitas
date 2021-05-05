@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/App-Receitas/static/css/main.1c9b7993.chunk.css",
+    "main.js": "/App-Receitas/static/js/main.160b3c00.chunk.js",
+    "main.js.map": "/App-Receitas/static/js/main.160b3c00.chunk.js.map",
+    "runtime-main.js": "/App-Receitas/static/js/runtime-main.87ee2ccd.js",
+    "runtime-main.js.map": "/App-Receitas/static/js/runtime-main.87ee2ccd.js.map",
+    "static/css/2.95258f03.chunk.css": "/App-Receitas/static/css/2.95258f03.chunk.css",
+    "static/js/2.919a2812.chunk.js": "/App-Receitas/static/js/2.919a2812.chunk.js",
+    "static/js/2.919a2812.chunk.js.map": "/App-Receitas/static/js/2.919a2812.chunk.js.map",
+    "index.html": "/App-Receitas/index.html",
+    "precache-manifest.7a562cff9e0b3aebf830b490290d2a5a.js": "/App-Receitas/precache-manifest.7a562cff9e0b3aebf830b490290d2a5a.js",
+    "service-worker.js": "/App-Receitas/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/App-Receitas/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.1c9b7993.chunk.css.map": "/App-Receitas/static/css/main.1c9b7993.chunk.css.map",
+    "static/js/2.919a2812.chunk.js.LICENSE.txt": "/App-Receitas/static/js/2.919a2812.chunk.js.LICENSE.txt",
+    "static/media/Explorar.css": "/App-Receitas/static/media/comidas.69200fc7.jpg",
+    "static/media/blackHeartIcon.svg": "/App-Receitas/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/App-Receitas/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/App-Receitas/static/media/exploreIcon.157945ff.svg",
+    "static/media/Login.css": "/App-Receitas/static/media/login-wallpaper.05999137.jpg",
+    "static/media/mealIcon.svg": "/App-Receitas/static/media/mealIcon.b27ba19e.svg",
+    "static/media/NotFound.css": "/App-Receitas/static/media/notfound.0901ed89.gif",
+    "static/media/profileIcon.svg": "/App-Receitas/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/App-Receitas/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/App-Receitas/static/media/shareIcon.06215ed4.svg",
+    "static/media/whiteHeartIcon.svg": "/App-Receitas/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ee2ccd.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.919a2812.chunk.js",
+    "static/css/main.1c9b7993.chunk.css",
+    "static/js/main.160b3c00.chunk.js"
+  ]
+}
