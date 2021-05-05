@@ -1,6 +1,6 @@
 {
   "name": "recipes-app-test",
-  "homepage": "/",
+  "homepage": "https://dougfer.github.io/App-Receitas",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
